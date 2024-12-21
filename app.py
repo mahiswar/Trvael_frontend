@@ -2,6 +2,7 @@ import streamlit as st
 import requests
 
 # Set up the Streamlit app
+print("mahi")
 st.title("Travel Insurance Prediction")
 st.write("This app predicts whether an individual is likely to purchase travel insurance based on input features.")
 
